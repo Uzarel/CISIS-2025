@@ -1,0 +1,7 @@
+langchain
+langchain-chroma
+langchain-community
+langchain-ollama
+pandas
+ragas
+rapidfuzz
